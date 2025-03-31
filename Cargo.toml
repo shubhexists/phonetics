@@ -1,23 +1,6 @@
 [package]
 name = "phonetics"
-keywords = [
-    "phonetics",
-    "soundex",
-    "metaphone",
-    "double metaphone",
-    "nysiis",
-    "caverphone",
-    "match rating approach",
-    "metaphone 3",
-    "phonetic algorithm",
-    "phonetic encoding",
-    "phonetic matching",
-    "phonetic search",
-    "phonetic similarity",
-    "phonetic distance",
-    "phonetic comparison",
-    "phonetic indexing",
-]
+keywords = ["phonetics", "metaphone", "nysiis", "match rating approach"]
 description = "Phonetic algorithms for encoding and comparing strings."
 license = "MIT"
 categories = ["algorithms", "text-processing"]
