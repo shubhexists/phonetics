@@ -1,7 +1,31 @@
 [package]
 name = "phonetics"
+keywords = [
+    "phonetics",
+    "soundex",
+    "metaphone",
+    "double metaphone",
+    "nysiis",
+    "caverphone",
+    "match rating approach",
+    "metaphone 3",
+    "phonetic algorithm",
+    "phonetic encoding",
+    "phonetic matching",
+    "phonetic search",
+    "phonetic similarity",
+    "phonetic distance",
+    "phonetic comparison",
+    "phonetic indexing",
+]
+description = "Phonetic algorithms for encoding and comparing strings."
+license = "MIT"
+categories = ["algorithms", "text-processing"]
 version = "0.1.0"
 edition = "2024"
+authors = ["Shubham singh	<github: github.com/shubhexists>"]
+repository = "https://github.com/shubhexists/phonetics"
+readme = "README.md"
 
 [dependencies]
 regex = "1.11.1"
