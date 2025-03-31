@@ -13,6 +13,12 @@ NYSIIS Reference Used -
 
 https://en.wikipedia.org/wiki/New_York_State_Identification_and_Intelligence_System
 
+
+Metaphone Reference Used - 
+
+https://en.wikipedia.org/wiki/Metaphone
+
+
 ## Licence
 MIT
 
