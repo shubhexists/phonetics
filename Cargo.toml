@@ -1,0 +1,8 @@
+[package]
+name = "phonetics"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+regex = "1.11.1"
+dashmap = "6.1.0"
