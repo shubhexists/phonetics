@@ -1,3 +1,4 @@
-pub mod nysiis;
+mod metaphone;
+mod nysiis;
 
 pub use nysiis::Nysiis;
